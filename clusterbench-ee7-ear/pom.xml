@@ -23,6 +23,7 @@
         <artifactId>clusterbench</artifactId>
         <groupId>org.jboss.test</groupId>
         <version>3.0.0.Alpha1-SNAPSHOT</version>
+        <relativePath>../</relativePath>
     </parent>
 
     <artifactId>clusterbench-ee7-ear</artifactId>
